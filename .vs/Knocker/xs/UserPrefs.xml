@@ -1,0 +1,6 @@
+﻿<Properties StartupConfiguration="{4F38502B-DF48-4DCA-AE78-2E1BA41BEB84}|Default">
+  <MonoDevelop.Ide.ItemProperties.Knocker FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Knocker.iOS FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.Knocker.Android FirstBuild="True" />
+  <MultiItemStartupConfigurations />
+</Properties>

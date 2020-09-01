@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X899WzdlwJF9A2OnO+kMZkZdfh9MOUZCfPeRCZxFGmBfVOySSdGwnKEY69rLp9JsRr7E+GtHAPVgf5qRYh3UgA==",
+  "success": true,
+  "projectFilePath": "/Users/MGS/Projects/Knocker/Knocker.iOS/Knocker.iOS.csproj",
+  "expectedPackageFiles": [
+    "/Users/MGS/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "/Users/MGS/.nuget/packages/xamarin.forms/4.6.0.1141/xamarin.forms.4.6.0.1141.nupkg.sha512"
+  ],
+  "logs": []
+}
