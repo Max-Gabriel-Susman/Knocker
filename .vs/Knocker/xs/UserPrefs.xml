@@ -1,6 +1,43 @@
-﻿<Properties StartupConfiguration="{4F38502B-DF48-4DCA-AE78-2E1BA41BEB84}|Default">
-  <MonoDevelop.Ide.ItemProperties.Knocker FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Knocker.iOS FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.Knocker.Android FirstBuild="True" />
+﻿<Properties StartupConfiguration="{7349B961-819B-4E9A-A6D6-797928FE76A2}|Default">
+  <MonoDevelop.Ide.ItemProperties.Knocker.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.1D37476C-4497-4E06-A3CB-7F80C4290FAE" />
+  <MonoDevelop.Ide.ItemProperties.Knocker.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Knocker/MapTabbedPage.xaml">
+    <Files>
+      <File FileName="Knocker/App.xaml.cs" Line="13" Column="37" />
+      <File FileName="Knocker/MapTabbedPage.xaml.cs" Line="11" Column="52" />
+      <File FileName="Knocker/StreetMapPage.xaml" Line="2" Column="27" />
+      <File FileName="Knocker/StreetMapPage.xaml.cs" />
+      <File FileName="Knocker/SatelliteMapPage.xaml" Line="2" Column="30" />
+      <File FileName="Knocker/SatelliteMapPage.xaml.cs" />
+      <File FileName="Knocker/PinListViewPage.xaml" Line="2" Column="25" />
+      <File FileName="Knocker/PinListViewPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Knocker/SettingsListViewPage.xaml" Line="2" Column="29" />
+      <File FileName="Knocker/SettingsListViewPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="Knocker/MapTabbedPage.xaml" Line="7" Column="14" />
+      <File FileName="Knocker/App.xaml" Line="2" Column="131" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Knocker" expanded="True">
+            <Node name="Knocker" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MapTabbedPage.xaml" expanded="True" selected="True" />
+              <Node name="PinListViewPage.xaml" expanded="True" />
+              <Node name="SatelliteMapPage.xaml" expanded="True" />
+              <Node name="SettingsListViewPage.xaml" expanded="True" />
+              <Node name="StreetMapPage.xaml" expanded="True" />
+            </Node>
+            <Node name="Knocker.Android" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
 </Properties>

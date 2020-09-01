@@ -10,7 +10,7 @@ namespace Knocker
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new MapTabbedPage();
         }
 
         protected override void OnStart()
